@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Проверка объектов</string>
+    <string name="action_settings">Settings</string>
+    <string name="del_all_photos">Удалить все фото из памяти телефона</string>
+    <string name="upd_objects_list">Обновить список объектов</string>
+    <string name="clear_db">Очистить кэш отправки</string>
+    <string name="title_activity_main">Выбор объекта</string>
+    <string name="title_activity_main2">Выбор части объекта</string>
+    <string name="title_activity_main3">Сбор информации</string>
+</resources>
